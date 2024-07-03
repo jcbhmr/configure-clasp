@@ -1,0 +1,6 @@
+name: Configure clasp
+description: 📜 Authenticate the clasp Google Apps Script CLI tool
+
+branding:
+  color: blue
+  icon: settings
